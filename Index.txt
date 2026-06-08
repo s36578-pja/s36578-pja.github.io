@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajdy Grupy B</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <a href="index.html">Strona Główna</a>
+    <a href="historia.html">Historia</a>
+    <a href="pojazdy.html">Pojazdy</a>
+    <a href="trasy.html">Trasy</a>
+</nav>
+
+<header>
+    <h1>RAJDY GRUPY B</h1>
+</header>
+
+<section>
+
+    <h2>Czym była Grupa B?</h2>
+
+      <div class="grid-container">
+        <div class="card">
+            <p>
+                <h3>Grupa B</h3>
+                 była najbardziej ekstremalną kategorią rajdową w historii motorsportu.
+                Powstała w latach 80. i szybko stała się symbolem ogromnej mocy,
+                agresywnego wyglądu oraz niebezpiecznych tras.
+            </p>
+
+          
+
+            <p>
+                Samochody osiągały ponad 500 KM, ważyły bardzo mało
+                i posiadały napęd na cztery koła.
+            </p>
+        </div>
+    </div>
+
+      <p>
+                <img src="rarrry.jpg">
+            </p>
+
+</section>
+
+<section>
+
+    <h2>Charakterystyczny styl</h2>
+
+    <div class="grid-container">
+
+        <div class="card">
+            <h3>Dynamiczne malowania</h3>
+
+            <p>
+                Rajdówki Grupy B słynęły z agresywnych grafik,
+                ostrych kolorów i dynamicznych wzorów.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Ogromna moc</h3>
+
+            <p>
+                Konstrukcje były lekkie, brutalnie szybkie
+                i trudne do opanowania.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Ikoniczna era</h3>
+
+            <p>
+                Mimo zakończenia kategorii w 1986 roku,
+                Grupa B do dziś pozostaje legendą motorsportu.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+    <p>Autor: Jan Grochola | Numer studenta: s36578</p>
+</footer>
+
+</body>
+</html>
